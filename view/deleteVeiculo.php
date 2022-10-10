@@ -27,7 +27,7 @@
             <div class="form actions">
                 <button type="submit" class="btn btn-danger" value="Sim" style="width: 200px;">Sim
 
-                    <?php
+                    <?php   
 
                     include('../model/conexao.php');
 
